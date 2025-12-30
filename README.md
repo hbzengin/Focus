@@ -4,7 +4,7 @@ Block distracting sites using your hosts file.
 
 ## Important Notes
 
-- **Secure DNS**: If you use Brave or Chrome, you need to disable "Secure DNS" (DNS over HTTPS) in settings for it to work.
+- **Secure DNS**: If using Brave or Chrome, you must disable "Secure DNS" (DNS over HTTPS) in settings.
 - **Restart Browser**: You may need to close your browser fully for the changes to take effect.
 
 ## Usage
