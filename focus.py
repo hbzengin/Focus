@@ -87,7 +87,7 @@ def main():
     with open(hosts_path, "r") as f:
         content = f.read().strip()
 
-    lines = [line + "\n" for line in content.splitlines() if TAG not in line]
+    lines = [line + "\n" for line in content.splitlines() if TAG not in line.strip()]
 
     if is_start:
         with open(config_path, "rb") as f:
