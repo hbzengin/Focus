@@ -16,11 +16,15 @@ Block distracting sites using your hosts file.
 
 ## Blocking
 
+Run the following file using `sudo` on Linux/MacOS and `As Administrator` on Windows.
+
 - **macOS**: `MacOS/Start_Focus.command`
 - **Windows**: `Windows/Start_Focus.bat`
 - **Linux**: `Linux/Start_Focus.sh`
 
 ## Unblocking
+
+Run the following file using `sudo` on Linux/MacOS and `As Administrator` on Windows.
 
 - **macOS**: `MacOS/End_Focus.command`
 - **Windows**: `Windows/End_Focus.bat`
